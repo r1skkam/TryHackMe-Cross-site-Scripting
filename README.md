@@ -12,4 +12,4 @@
 
 [Infogram disclosed on HackerOne: Multiple xss on infogram templates](https://hackerone.com/reports/283825)
 
-
+## Task 2 XSS Payloads
